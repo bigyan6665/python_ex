@@ -1,0 +1,68 @@
+{
+    "easy": [
+        [
+            "apple",
+            "a---e:A common red or green fruit."
+        ],
+        [
+            "table",
+            "t---e:You eat dinner on this."
+        ],
+        [
+            "chair",
+            "c---r:You sit on this."
+        ],
+        [
+            "train",
+            "t---n:Runs on tracks, carries people."
+        ],
+        [
+            "water",
+            "w---r:You drink this to stay hydrated."
+        ]
+    ],
+    "medium": [
+        [
+            "garden",
+            "g----n:A place where flowers grow."
+        ],
+        [
+            "puzzle",
+            "p----e:A brain game made of pieces."
+        ],
+        [
+            "castle",
+            "c----e:A large building for kings/queens."
+        ],
+        [
+            "mirror",
+            "m----r:You see your reflection here."
+        ],
+        [
+            "planet",
+            "p----t:Earth is one of these."
+        ]
+    ],
+    "hard": [
+        [
+            "oxygen",
+            "o----n:Gas we breathe to survive."
+        ],
+        [
+            "knight",
+            "k----t:Medieval warrior in armor."
+        ],
+        [
+            "jungle",
+            "j----e:A dense forest with wild animals."
+        ],
+        [
+            "galaxy",
+            "g----y:A huge group of stars."
+        ],
+        [
+            "rhythm",
+            "r----m:A pattern of beats in music."
+        ]
+    ]
+}
